@@ -2,12 +2,12 @@ PODS:
   - Flutter (1.0.0)
   - flutter_klarna_payment (0.0.1):
     - Flutter
-    - KlarnaMobileSDK (~> 2.4.1)
+    - KlarnaMobileSDK (~> 2.10.0)
   - integration_test (0.0.1):
     - Flutter
-  - KlarnaMobileSDK (2.4.2):
-    - KlarnaMobileSDK/full (= 2.4.2)
-  - KlarnaMobileSDK/full (2.4.2)
+  - KlarnaMobileSDK (2.10.1):
+    - KlarnaMobileSDK/basic (= 2.10.1)
+  - KlarnaMobileSDK/basic (2.10.1)
 
 DEPENDENCIES:
   - Flutter (from `Flutter`)
@@ -28,9 +28,9 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
-  flutter_klarna_payment: bcabf729b49ad834a129b2de57a4f05e813125a4
-  integration_test: 13825b8a9334a850581300559b8839134b124670
-  KlarnaMobileSDK: 2ca52a74a9ebbe3c57325a9829e7008583c32ecf
+  flutter_klarna_payment: b5d7549a96168c4526ca669ad9a430046d7d383f
+  integration_test: 252f60fa39af5e17c3aa9899d35d908a0721b573
+  KlarnaMobileSDK: 4d1acf86e14fe374a7341280ee5ca975538ac34d
 
 PODFILE CHECKSUM: 819463e6a0290f5a72f145ba7cde16e8b6ef0796
 
